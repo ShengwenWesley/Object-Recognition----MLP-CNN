@@ -1,7 +1,7 @@
 # Object-Recognition of CIFAR-10 
 This ia a walkthrough of typical ML workflow. <br>
 Specifically, it starts from Preprocessing dataset with PyTorch utils including transform, Dataset, random_split and Dataloader. <br>
-Further, it includes building structure of 3-layer MLP and a simple Convolutional Neural Network with 2 Conv layers. <br>
+Further, it includes building structure of 4-layer MLP and a simple Convolutional Neural Network with 2 Conv layers. <br>
 Following is the construction of training loop with CrossEntropyLoss, Adam optimizer, back-propagation and gradient descent setting up. 
 Finally, it comes to validation and testing. 
 
